@@ -1,0 +1,1 @@
+This project was created to showcase my frontend development skills by recreating a random website design. It was built using HTML, TailwindCSS, JavaScript, and jQuery. The website I chose to replicate is from one of the companies I applied to, and this project is intended solely as a demonstration of my ability to build responsive and modern user interfaces.
